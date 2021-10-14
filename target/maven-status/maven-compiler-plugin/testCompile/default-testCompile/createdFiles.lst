@@ -1,0 +1,3 @@
+pages\BasePage.class
+tests\EmailSingUpTest.class
+utility\Action.class
